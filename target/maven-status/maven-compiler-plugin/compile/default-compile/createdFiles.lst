@@ -1,0 +1,17 @@
+com\mycompany\veterinaria\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\veterinaria\igu\Principal$1.class
+com\mycompany\veterinaria\persistencia\DuenioJpaController.class
+com\mycompany\veterinaria\logica\Controladora.class
+com\mycompany\veterinaria\logica\Mascota.class
+com\mycompany\veterinaria\persistencia\MascotaJpaController.class
+com\mycompany\veterinaria\igu\CargarDatos$2.class
+com\mycompany\veterinaria\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\veterinaria\igu\CargarDatos.class
+com\mycompany\veterinaria\logica\Mascota_.class
+com\mycompany\veterinaria\igu\Principal.class
+com\mycompany\veterinaria\logica\Duenio.class
+com\mycompany\veterinaria\logica\Duenio_.class
+com\mycompany\veterinaria\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\veterinaria\igu\CargarDatos$1.class
+com\mycompany\veterinaria\persistencia\ControladoraPersistencia.class
+com\mycompany\veterinaria\Veterinaria.class
